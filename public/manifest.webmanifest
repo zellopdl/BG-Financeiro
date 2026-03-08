@@ -1,0 +1,26 @@
+{
+    "name": "BG ADM Financeiro",
+    "short_name": "BG ADM",
+    "description": "Sistema de Administração Financeira BG",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#3d4b26",
+    "theme_color": "#3d4b26",
+    "icons": [
+        {
+            "src": "/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        }
+    ]
+}
